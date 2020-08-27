@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Employees_Location</string>
+    <string name="title_activity_login">Sign in</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+
+    <string name="button_signIn">"Sign In"</string>
+    <string name="button_signOut">"Sign Out"</string>
+    <string name="button_disconnect">"Disconnect"</string>
+    <string name="button_show_empleyees">"MIS COLABORADORES"</string>
+    <string name="button_add_employee">"AGREGAR COLABORADOR"</string>
+    <string name="button_test">"Test"</string>
+
+    <string name="google_status_fmt">1</string>
+    <string name="firebase_status_fmt">2</string>
+    <string name="signed_out">"signed_out"</string>
+
+
+    <string name="default_web_client_id2">"788047115902-lvtkqqqjstir3e52930fs5qhfq5lo6ef.apps.googleusercontent.com"</string>
+</resources>
